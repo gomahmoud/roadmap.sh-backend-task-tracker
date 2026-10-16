@@ -2,6 +2,7 @@
 
 A small command-line application for managing tasks locally. Tasks are stored in a JSON file, so they remain available between runs without requiring a database or network connection.
 
+Project link: https://roadmap.sh/projects/task-tracker
 ## Requirements
 
 - Go 1.27.1 or later
